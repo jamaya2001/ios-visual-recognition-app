@@ -3,6 +3,10 @@
 
 # Create an iOS application in Swift which uses image recognition
 
+## WARNING: This repository is no longer maintained. 
+
+This repository will not be updated. The repository will be kept available in read-only mode.
+
 In this code pattern, you will create an iOS app that showcases computer vision by labeling what the device's camera sees. You will provision a Visual Recognition service where you can either leverage a demo model or train your own custom model.
 
 When you have completed this code pattern, you will understand how to:
